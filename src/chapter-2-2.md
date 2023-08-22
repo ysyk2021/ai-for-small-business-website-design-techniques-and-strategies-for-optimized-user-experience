@@ -1,5 +1,4 @@
-Types of AI used for Small Business Website Design
-=================================================================================================================
+
 
 AI tools and technologies have numerous applications in small business website design. In this chapter, we will explore the types of AI commonly used in small business website design and how they can be leveraged to optimize user experience.
 

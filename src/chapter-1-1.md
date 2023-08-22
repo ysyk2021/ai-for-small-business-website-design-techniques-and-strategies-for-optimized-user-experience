@@ -1,5 +1,4 @@
-Why AI is Important for Small Business Website Design
-===================================================================
+
 
 In today's digital age, small business website design has become increasingly important. A well-designed website can be a powerful marketing tool, driving traffic and revenue for small businesses. However, designing an effective website can be challenging, especially for small businesses with limited resources.
 

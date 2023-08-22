@@ -1,5 +1,4 @@
-Developing governance frameworks to ensure responsible AI use
-====================================================================================================================================
+
 
 As small businesses increasingly turn to AI tools and technologies to improve website design, it's important to consider the ethical implications of these technologies. In this chapter, we'll explore how small businesses can develop governance frameworks to ensure responsible AI use.
 
