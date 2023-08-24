@@ -1,5 +1,4 @@
 
-
 Effective use of AI algorithms for data analysis in website design requires proper collection and preparation of data. In this chapter, we explore best practices for collecting and preparing data for use with AI tools and techniques.
 
 Define Objectives

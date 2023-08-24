@@ -1,5 +1,4 @@
 
-
 In addition to ethical considerations, small businesses must also consider legal and regulatory requirements when implementing AI in website design. In this chapter, we explore best practices for AI governance in small business website design to ensure compliance with relevant laws and regulations.
 
 Intellectual Property

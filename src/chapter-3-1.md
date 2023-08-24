@@ -1,5 +1,4 @@
 
-
 Before implementing AI tools and technologies in website design, it is essential to assess your small business's needs and goals. In this chapter, we will explore the importance of assessing website design needs and goals, how to identify them, and strategies for achieving them through AI implementation.
 
 Importance of assessing website design needs and goals
