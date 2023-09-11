@@ -1,5 +1,4 @@
-Chapter 31: Ethical Considerations for AI Implementation in Small Business Website Design
-=========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the ethical considerations that small businesses should take into account when implementing AI techniques for website design. As AI becomes more prevalent in shaping user experiences, it is essential to uphold ethical principles to ensure fairness, transparency, and accountability.
 

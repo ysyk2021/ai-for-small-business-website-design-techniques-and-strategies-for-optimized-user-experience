@@ -1,5 +1,4 @@
-Chapter 19: Overview of AI Applications for Website Personalization
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various applications of AI for website personalization in small business website design. Personalizing the user experience is a key element in creating engaging and tailored interactions with website visitors. AI technologies offer diverse capabilities that can help small businesses deliver personalized content, recommendations, and user interfaces. Let's delve into the different AI applications for website personalization.
 

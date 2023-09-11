@@ -1,5 +1,4 @@
-Chapter 35: Assessing the Effectiveness of AI for Small Business Website Design
-===============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of assessing the effectiveness of AI for small business website design. Evaluating the impact and performance of AI techniques allows businesses to measure their return on investment, identify areas for improvement, and ensure the delivery of an optimized user experience.
 

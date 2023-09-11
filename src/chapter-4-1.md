@@ -1,5 +1,4 @@
-Chapter 18: Overview of AI Tools and Technologies for Website Design
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an overview of various AI tools and technologies that can be leveraged for small business website design to enhance the user experience. These tools and technologies encompass a wide range of functionalities, including content creation, design optimization, chatbots, and analytics. By understanding these AI-powered solutions, small businesses can make informed decisions when incorporating AI into their website design strategies.
 

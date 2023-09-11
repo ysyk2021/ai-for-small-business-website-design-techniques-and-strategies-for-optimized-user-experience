@@ -1,5 +1,4 @@
-Chapter 29: Evaluating Data Availability and Quality
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the critical process of evaluating data availability and quality for small businesses implementing AI techniques and strategies for website design. Data serves as the foundation for AI models, and assessing the availability and quality of data is crucial to ensure accurate, meaningful, and reliable outcomes.
 

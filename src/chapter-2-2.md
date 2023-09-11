@@ -1,5 +1,4 @@
-Chapter: Types of AI Used for Small Business Website Design
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------

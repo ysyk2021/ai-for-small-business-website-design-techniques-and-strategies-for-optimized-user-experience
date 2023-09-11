@@ -1,5 +1,4 @@
-Chapter 33: Legal and Regulatory Considerations for AI Implementation in Small Business Website Design
-======================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the legal and regulatory considerations that small businesses should take into account when implementing AI techniques in website design. Adhering to relevant laws and regulations ensures compliance, protects user rights, and mitigates potential legal risks associated with AI deployment.
 

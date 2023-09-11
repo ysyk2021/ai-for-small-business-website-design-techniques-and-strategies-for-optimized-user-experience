@@ -1,5 +1,4 @@
-Chapter 21: Key Factors to Consider When Choosing AI Tools
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the key factors that small businesses should consider when choosing AI tools for their website design. Implementing AI technology can significantly enhance user experiences, personalization capabilities, and overall business performance. However, selecting the right AI tools is crucial to ensure successful integration and optimal outcomes. Let's delve into the key factors to consider when choosing AI tools.
 
